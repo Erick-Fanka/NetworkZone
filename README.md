@@ -26,7 +26,7 @@ Pastas organizadas por cenários fictícios, cada uma com:
 
 ## 👨‍💻 Autor
 Erick Fanka  
-Estudante de Redes de Computadores | Aprendiz de Cloud Computing  
+Estudante de Redes de Computadores | Estudante de Cloud Computing  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/erick-fanka/)
 
