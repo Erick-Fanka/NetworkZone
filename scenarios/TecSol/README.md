@@ -93,14 +93,15 @@ A TecSol Ltda possui um escritório com 2 andares. Objetivo: montar uma rede peq
 - PC-MGMT: IP fixo ou via DHCP na VLAN 99
 
 ## 6) Checklist de testes
-✅ PCs Admin (VLAN 10) recebem IP 192.168.10.x e pingam 192.168.10.1
-✅ PCs Suporte (VLAN 20) recebem IP 192.168.20.x e pingam 192.168.20.1
-✅ PCs Vendas (VLAN 30) recebem IP 192.168.30.x e pingam 192.168.30.1
-✅ PC-MGMT acessa SVIs dos switches (192.168.99.2/3/4)
-✅ Todos PCs conseguem pingar 192.168.50.10 (servidor DMZ)
-✅ PC-Vendas acessa http://www.empresa.local (HTTP OK)
-❌ PC-Vendas não consegue pingar PCs da VLAN 10/20/99 (ACL funcionando)
-✅ PCs Admin e Suporte comunicam-se entre si normalmente
+
+- ✅ PCs Admin (VLAN 10) recebem IP 192.168.10.x e pingam 192.168.10.1  
+- ✅ PCs Suporte (VLAN 20) recebem IP 192.168.20.x e pingam 192.168.20.1  
+- ✅ PCs Vendas (VLAN 30) recebem IP 192.168.30.x e pingam 192.168.30.1  
+- ✅ PC-MGMT acessa SVIs dos switches (192.168.99.2/3/4)  
+- ✅ Todos PCs conseguem pingar 192.168.50.10 (servidor DMZ)  
+- ✅ PC-Vendas acessa http://www.empresa.local (HTTP OK)  
+- ❌ PC-Vendas não consegue pingar PCs da VLAN 10/20/99 (ACL funcionando)  
+- ✅ PCs Admin e Suporte comunicam-se entre si normalmente  
 
 ## 7) Exercícios extras
 - Bloquear apenas ICMP da VLAN 30 para VLAN 10, mas permitir HTTP/HTTPS
