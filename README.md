@@ -28,6 +28,6 @@ Pastas organizadas por cenários fictícios, cada uma com:
 Erick Fanka  
 Estudante de Redes de Computadores | Aprendiz de Cloud Computing  
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/erick-fanka/)
 
 💡 Este repositório é voltado para fins educacionais e práticas de laboratório. Nenhuma empresa real está associada aos cenários aqui descritos.
